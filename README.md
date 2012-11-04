@@ -1,0 +1,1 @@
+primer experimento desde linea de comando
